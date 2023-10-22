@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WisdomPetMedicine.Pet.Domain\WisdomPetMedicine.Pet.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
