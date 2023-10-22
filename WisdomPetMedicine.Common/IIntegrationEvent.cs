@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WisdomPetMedicine.Common
 {
-    internal interface IIntegrationEvent
+    public interface IIntegrationEvent
     {
     }
 }
