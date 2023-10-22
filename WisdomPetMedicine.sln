@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Pet.Domai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Pet.Domain.Tests", "WisdomPetMedicine.Pet.Domain.Tests\WisdomPetMedicine.Pet.Domain.Tests.csproj", "{0665BA38-9939-4AB4-AC31-AE7B6100DA8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WisdomPetMedicine.Pet.Api", "WisdomPetMedicine.Pet.Api\WisdomPetMedicine.Pet.Api.csproj", "{66B8D752-4A4D-4030-A618-168CD2D06A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0665BA38-9939-4AB4-AC31-AE7B6100DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0665BA38-9939-4AB4-AC31-AE7B6100DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0665BA38-9939-4AB4-AC31-AE7B6100DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B8D752-4A4D-4030-A618-168CD2D06A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B8D752-4A4D-4030-A618-168CD2D06A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B8D752-4A4D-4030-A618-168CD2D06A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B8D752-4A4D-4030-A618-168CD2D06A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +46,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B85335B4-F77A-4EA8-921C-623718F1D001} = {97D40AE9-1589-4F14-916D-D0CE4FB9329A}
 		{0665BA38-9939-4AB4-AC31-AE7B6100DA8E} = {97D40AE9-1589-4F14-916D-D0CE4FB9329A}
+		{66B8D752-4A4D-4030-A618-168CD2D06A73} = {97D40AE9-1589-4F14-916D-D0CE4FB9329A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BFE61F0E-463D-4328-B592-73BD9DB38BE2}
