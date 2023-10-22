@@ -1,7 +1,6 @@
 ﻿namespace WisdomPetMedicine.Common
 {
-    public class Class1
+    public interface IDomainEvent
     {
-
     }
 }
